@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\HELLOWORLDANDLEXA\\HelloLexaMayson\\HelloLexaMayson.csproj",
-      "projectName": "HelloLexaMayson",
-      "projectPath": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\HELLOWORLDANDLEXA\\HelloLexaMayson\\HelloLexaMayson.csproj",
+      "projectUniqueName": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\BULLCOWSGAMEOFTHRONE\\BULLCOWSGAMEOFTHRONE\\BULLCOWSGAMEOFTHRONE.csproj",
+      "projectName": "BULLCOWSGAMEOFTHRONE",
+      "projectPath": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\BULLCOWSGAMEOFTHRONE\\BULLCOWSGAMEOFTHRONE\\BULLCOWSGAMEOFTHRONE.csproj",
       "packagesPath": "C:\\Users\\SyMurrr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\HELLOWORLDANDLEXA\\HelloLexaMayson\\obj\\",
+      "outputPath": "C:\\Users\\SyMurrr\\source\\repos\\HelloLexaMayson\\BULLCOWSGAMEOFTHRONE\\BULLCOWSGAMEOFTHRONE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
