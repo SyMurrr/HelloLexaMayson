@@ -1,0 +1,13 @@
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.exe
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.deps.json
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.runtimeconfig.json
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.runtimeconfig.dev.json
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.dll
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\bin\Debug\netcoreapp3.1\HelloLexaMayson.pdb
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.csprojAssemblyReference.cache
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.AssemblyInfoInputs.cache
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.AssemblyInfo.cs
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.csproj.CoreCompileInputs.cache
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.dll
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.pdb
+C:\Users\SyMurrr\source\repos\HelloLexaMayson\HelloLexaMayson\obj\Debug\netcoreapp3.1\HelloLexaMayson.genruntimeconfig.cache
